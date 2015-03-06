@@ -46,11 +46,12 @@ e.g `.text-danger` and `.btn-danger` is better than `.danger`
 Use CSSComb, code formatters to make the code look the same no matter what.
 
 e.g.
-1. Positioning
-2. Box model (display, float, width...)
-3. Typography
-4. Visuals
-5. Misc (CSS3)
+
+1 Positioning
+2 Box model (display, float, width...)
+3 Typography
+4 Visuals
+5 Misc (CSS3)
 
 ##Document guidelines
 
@@ -70,9 +71,9 @@ e.g. `[hidden] { display:none !important; }`
 
 ##Automate and track CSS
 
-Linters and validators
-Grunt and Gulp
-Stats and reporting
+* Linters and validators
+* Grunt and Gulp
+* Stats and reporting
 
 e.g. Fail if class is not used in any view
 
@@ -82,8 +83,10 @@ Get size, number of selectors. Use Parker to get number of colours, declarations
 
 cssstats.com is also a good tool.
 
-Simplicity conquers all.
-Fosus on what's between the curly braces.
-Document and evolve guidelines.
+##In summary
+
+* Simplicity conquers all.
+* Focus on what's between the curly braces.
+* Document and evolve guidelines.
 
 
