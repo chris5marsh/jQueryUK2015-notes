@@ -59,7 +59,7 @@ What can block it?
 
 It doesn't block the layout render, but it can block the text render.
 
-IE just falls back to default font; Webkit and Opera (Blink) just fails; FF and Opera (Presto) blocks and then falls back. So use Web font loader to remove fonts from the critical path.
+IE just falls back to default font; Webkit and Opera (Blink) just fails; FF and Opera (Presto) blocks and then falls back. So use [Web font loader](https://github.com/typekit/webfontloader) to remove fonts from the critical path.
 
 CSS fonts loading module is coming!
 

@@ -14,11 +14,11 @@ I would have loved to stay for Addy Osmani's DevTools State of the Union talk, b
 
 ##[Bin your &lt;select>](notes/bin-your-select.md)
 
-<!--
 ##[Architecting resilient front-ends](notes/resilient-front-ends.md)
 
 ##[Anything you can paint, I can program better](notes/paint-program.md)
 
+<!--
 ##[Dismantling the barriers to entry](notes/barriers.md)
 
 ##[Hacking front-end apps](notes/hacking-front-end-apps.md)
