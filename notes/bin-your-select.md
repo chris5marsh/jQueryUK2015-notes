@@ -50,12 +50,11 @@ They should be the UI of last resort.
 
 ##What is good?
 
-* Accessible
-  Steve Faulkner's checklist for accessibility - keyboard focusable, expected operation, clear indication, label, role etc.
+* Accessible c.f. Steve Faulkner's checklist for accessibility - keyboard focusable, expected operation, clear indication, label, role etc.
 
 * Functional without JS?
 
-* Functional in which browsers? (IE7 for gov.uk)
+* Functional in which browsers? (IE7+ for gov.uk)
 
 These last two make it more resilient. If you break the Javascript, will it still work?
 

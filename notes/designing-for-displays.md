@@ -40,7 +40,7 @@ Getting insights by mocking them up, feeding them back into how the technology i
 
 ####Constraints breed creativity
 
-Making assumptions can tease out novel ideas. e.g. it will probably be low power, low refresh. SO TV is still there for video, but smart wallpaper will augment the experience.
+Making assumptions can tease out novel ideas. e.g. it will probably be low power, low refresh. So TV is still there for video, but smart wallpaper will augment the experience.
 
 
 ####Stay agnostic to underlying hardware
