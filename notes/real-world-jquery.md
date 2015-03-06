@@ -11,18 +11,25 @@ Our devices have an impact on out environment. Browsers and the desktop is just 
 ###Demos
 
 _Battery status_
+
 _Orientation_
+
 _Geolocation_
 
 ####Input
+
 _Ambient light_
+
 _Touch_
 
 ####Output
+
 _Movement_
+
 _Audio_
 
 ####Other things
+
 _Weather_
 
 ###Putting things together
