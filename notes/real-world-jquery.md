@@ -2,8 +2,6 @@
 
 **Live demo**
 
-1574
-
 This is not a practical guide to using jQuery in a real-life situation.
 
 We use jQuery just for modifying the DOM of our web pages. But it can do much more outside the browser window.
