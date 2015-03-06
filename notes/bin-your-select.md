@@ -1,4 +1,4 @@
-#Bin your <select>
+#Bin your &lt;select>
 
 Alice Bartlett, front-end dev at GDS
 

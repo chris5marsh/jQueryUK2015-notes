@@ -12,7 +12,7 @@ I would have loved to stay for Addy Osmani's DevTools State of the Union talk, b
 
 ##[Designing for displays that don't exist yet](notes/designing-for-displays.md)
 
-##[Bin your <select>](notes/bin-your-select.md)
+##[Bin your &lt;select>](notes/bin-your-select.md)
 
 <!--
 ##[Architecting resilient front-ends](notes/resilient-front-ends.md)
