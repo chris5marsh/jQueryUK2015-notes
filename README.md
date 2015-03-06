@@ -22,6 +22,4 @@ I would have loved to stay for Addy Osmani's DevTools State of the Union talk, b
 
 ##[Hacking front-end apps](notes/hacking-front-end-apps.md)
 
-<!--
 ##[Real world jQuery](notes/real-world-jquery.md)
--->
